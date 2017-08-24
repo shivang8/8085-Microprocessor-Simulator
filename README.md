@@ -73,4 +73,4 @@ You can also use inbuilt debugger to debug your 8085 program. The debugger has f
 **IF YOU ENCOUNTER ANY BUGS OR FOR ANY SUGGESTIONS REGARDING THE IMPROVEMENT OF THE 8085 MICROPROCESSOR SIMULATOR FEEL FREE TO CONTACT US:**
 
 Shivani Mittal		  -	mittal.shivani@geu.ac.in<br/>
-Shivang Srivastava	-	shivang.srivastava1997@gmail.com<br/>
+Shivang Srivastava	-	shivang.8@geu.ac.in<br/>
