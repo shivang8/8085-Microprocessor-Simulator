@@ -49,7 +49,7 @@ You can also use inbuilt debugger to debug your 8085 program. The debugger has f
         To print value flag use print or p flag. Eg: `print flag` or `p flag`.<br/>
         To print current line number use print or p loc. Eg: `print loc` or `p loc`.<br/>
         To print value of memory location use print or p x<memory address>. Eg: `print x2000` or `p x2000.`<br/>
-      5. Quit or q :** Quits the debugger.<br/>
+      5. Quit or q : Quits the debugger.<br/>
         Eg: `quit` or `q`<br/>
       6. help : It will show all the commands of the debugger.<br/>
         Eg: `help`<br/>
